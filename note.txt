@@ -1,0 +1,62 @@
+// Contoh 1
+$course1 = \App\Models\Course::create([
+    'title' => 'Dasar-dasar Pemrograman',
+    'description' => 'Kursus ini mengajarkan dasar-dasar pemrograman untuk pemula.',
+    'duration' => 20
+]);
+
+// Contoh 2
+$course2 = \App\Models\Course::create([
+    'title' => 'Pemrograman Web dengan PHP',
+    'description' => 'Kursus ini membahas pengembangan web menggunakan bahasa pemrograman PHP.',
+    'duration' => 30
+]);
+
+// Contoh 3
+$course3 = \App\Models\Course::create([
+    'title' => 'Pengembangan Aplikasi Mobile',
+    'description' => 'Kursus ini memberikan pengetahuan dasar tentang pengembangan aplikasi mobile.',
+    'duration' => 25
+]);
+
+\App\Models\Content::create([
+    'course_id' => 1,
+    'title' => 'Pendahuluan Pemrograman',
+    'description' => 'Bagian ini mencakup pengenalan dasar-dasar pemrograman.',
+    'link_course' => 'https://example.com/pemrograman-pendahuluan'
+]);
+
+\App\Models\Content::create([
+    'course_id' => 1,
+    'title' => 'Variabel dan Tipe Data',
+    'description' => 'Memahami variabel dan tipe data dalam pemrograman.',
+    'link_course' => 'https://example.com/variabel-tipe-data'
+]);
+
+\App\Models\Content::create([
+    'course_id' => 2,
+    'title' => 'Pengantar PHP',
+    'description' => 'Dasar-dasar PHP dan bagaimana cara menggunakannya.',
+    'link_course' => 'https://example.com/pengantar-php'
+]);
+
+\App\Models\Content::create([
+    'course_id' => 2,
+    'title' => 'Manipulasi Database',
+    'description' => 'Cara menghubungkan PHP dengan database menggunakan MySQL.',
+    'link_course' => 'https://example.com/manipulasi-database'
+]);
+
+\App\Models\Content::create([
+    'course_id' => 3,
+    'title' => 'Memulai Pengembangan Mobile',
+    'description' => 'Pengantar tentang pengembangan aplikasi mobile.',
+    'link_course' => 'https://example.com/memulai-pengembangan-mobile'
+]);
+
+\App\Models\Content::create([
+    'course_id' => 3,
+    'title' => 'Framework untuk Aplikasi Mobile',
+    'description' => 'Mengenal berbagai framework yang dapat digunakan dalam pengembangan aplikasi mobile.',
+    'link_course' => 'https://example.com/framework-aplikasi-mobile'
+]);
