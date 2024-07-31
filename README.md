@@ -1,10 +1,18 @@
 1. halaman utama ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(202).png?raw=true)
-2. halaman tambah course
-3. halaman notifikasi tambah course
-4. halaman update course
-5. halaman notifikasi update course
-6. halaman confirm delete course
-7. halaman notifikasi dete course
+2. halaman tambah course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(203).png?raw=true)
+3. halaman notifikasi tambah course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(204).png?raw=true)
+4. halaman edit course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(205).png?raw=true)
+5. halaman notifikasi edit course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(206).png?raw=true)
+6. halaman confirm delete course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(207).png?raw=true)
+7. halaman notifikasi dete course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(208).png?raw=true)
+8. halaman content didalam course ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(209).png?raw=true)
+9. halaman tambah content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(210).png?raw=true)
+10. halaman notifikasi tambah content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(211).png?raw=true)
+11. halaman edit content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(212).png?raw=true)
+12. halaman notifikasi edit content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(213).png?raw=true)
+13. halaman confirm delete content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(214).png?raw=true)
+14. halaman notifikasi delete content ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(215).png?raw=true)
+15. halaman go to link jika di click ![alt text](https://github.com/suryaahdiyat/kursus-app/blob/main/documtentasi/Screenshot%20(216).png?raw=true)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
